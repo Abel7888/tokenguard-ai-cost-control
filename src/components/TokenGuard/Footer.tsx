@@ -10,9 +10,11 @@ const Footer = () => (
         <span>·</span>
         <a href="#" className="transition-colors hover:text-foreground">Terms</a>
         <span>·</span>
-        <a href="mailto:hello@tokenguard.io" className="transition-colors hover:text-foreground">hello@tokenguard.io</a>
+        <span className="text-muted-foreground/60">All content is our intellectual property.</span>
+        <span>·</span>
+        <a href="mailto:info@tokenguard.xyz" className="transition-colors hover:text-foreground">info@tokenguard.xyz</a>
       </div>
-      <span className="font-mono text-xs text-muted-foreground">Toronto, Canada 🇨🇦</span>
+      <span className="font-mono text-xs text-muted-foreground">Washington, DC 🇺🇸</span>
     </div>
   </footer>
 );
