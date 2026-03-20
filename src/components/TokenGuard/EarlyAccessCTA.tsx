@@ -49,7 +49,11 @@ const EarlyAccessCTA = () => {
           )}
 
           <p className="mt-6 font-mono text-xs text-muted-foreground/50">
-            No spam. No sales pressure. Just a 30-minute call to see if we're a fit.
+            No spam. No sales pressure.{" "}
+            <a href="https://calendly.com/abelassefa788/partnerships-investor-and-advisors-information" target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">
+              Book a 30-minute call
+            </a>{" "}
+            to see if we're a fit.
           </p>
         </div>
       </div>

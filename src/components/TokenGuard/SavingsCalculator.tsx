@@ -42,11 +42,11 @@ const SavingsCalculator = () => {
             </div>
           </div>
           <p className="mt-6 text-center font-mono text-xs text-muted-foreground/60">
-            Based on average savings across TokenGuard design partners.
+            Based on average savings across Cypress Partner MSP design partners.
           </p>
           <p className="mt-8 text-center font-heading text-lg text-foreground">
             Want to see your real number?{" "}
-            <a href="#early-access" className="text-primary underline underline-offset-4">
+            <a href="https://calendly.com/abelassefa788/partnerships-investor-and-advisors-information" target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">
               Book a free 30-minute audit.
             </a>
           </p>

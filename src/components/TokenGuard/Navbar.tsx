@@ -6,7 +6,7 @@ const Navbar = () => {
           <span className="relative flex h-2.5 w-2.5">
             <span className="pulse-dot absolute inline-flex h-full w-full rounded-full bg-primary" />
           </span>
-          TokenGuard
+          Cypress Partner MSP
         </a>
         <a
           href="#early-access"

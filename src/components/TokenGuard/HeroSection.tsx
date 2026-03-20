@@ -57,7 +57,7 @@ const HeroSection = () => {
           <div className="font-mono text-2xl font-bold text-destructive">
             ${waste.toLocaleString("en-US", { minimumFractionDigits: 2 })}
           </div>
-          <div className="mt-3 font-mono text-xs text-muted-foreground">TokenGuard would have saved</div>
+          <div className="mt-3 font-mono text-xs text-muted-foreground">Cypress Partner MSP would have saved</div>
           <div className="font-mono text-2xl font-bold text-primary glow-text">
             ${saved.toLocaleString("en-US", { minimumFractionDigits: 2 })}
           </div>
