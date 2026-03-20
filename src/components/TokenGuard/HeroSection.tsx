@@ -29,7 +29,7 @@ const HeroSection = () => {
             <span className="text-primary glow-text">We stop that.</span>
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-muted-foreground sm:text-xl">
-            TokenGuard monitors, optimises and controls your AI API spend in real time
+            Cypress Partner MSP monitors, optimises and controls your AI API spend in real time
             — cutting costs 30–70% without touching your performance.
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
